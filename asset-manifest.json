@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.42761ce1.chunk.css",
+    "main.js": "/Portfolio/static/js/main.f2062fbe.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.f2062fbe.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.6f61b024.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.6f61b024.js.map",
+    "static/css/2.ec02d681.chunk.css": "/Portfolio/static/css/2.ec02d681.chunk.css",
+    "static/js/2.28c7405d.chunk.js": "/Portfolio/static/js/2.28c7405d.chunk.js",
+    "static/js/2.28c7405d.chunk.js.map": "/Portfolio/static/js/2.28c7405d.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/Portfolio/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.42761ce1.chunk.css.map": "/Portfolio/static/css/main.42761ce1.chunk.css.map",
+    "static/js/2.28c7405d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.28c7405d.chunk.js.LICENSE.txt",
+    "static/media/CV_GIANFRANCO_BENVENUTO_ENG.b881f672.pdf": "/Portfolio/static/media/CV_GIANFRANCO_BENVENUTO_ENG.b881f672.pdf",
+    "static/media/CV_GIANFRANCO_BENVENUTO_ESP.7733844e.pdf": "/Portfolio/static/media/CV_GIANFRANCO_BENVENUTO_ESP.7733844e.pdf",
+    "static/media/ClimaAPi.f3056924.png": "/Portfolio/static/media/ClimaAPi.f3056924.png",
+    "static/media/FotoEcommerce.25903009.png": "/Portfolio/static/media/FotoEcommerce.25903009.png",
+    "static/media/Mailbox-pana.3fd6fee1.png": "/Portfolio/static/media/Mailbox-pana.3fd6fee1.png",
+    "static/media/MovieApi.f7c1c51e.png": "/Portfolio/static/media/MovieApi.f7c1c51e.png",
+    "static/media/aboutme.664221da.png": "/Portfolio/static/media/aboutme.664221da.png",
+    "static/media/avatar.d94025aa.png": "/Portfolio/static/media/avatar.d94025aa.png",
+    "static/media/App.css": "/Portfolio/static/media/coffee-apple.a0c19713.jpg",
+    "static/media/inro.a2bc8d81.jpg": "/Portfolio/static/media/inro.a2bc8d81.jpg",
+    "static/media/javascript.f5822e7b.jpg": "/Portfolio/static/media/javascript.f5822e7b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f61b024.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.28c7405d.chunk.js",
+    "static/css/main.42761ce1.chunk.css",
+    "static/js/main.f2062fbe.chunk.js"
+  ]
+}
